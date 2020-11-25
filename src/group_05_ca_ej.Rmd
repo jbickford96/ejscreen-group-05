@@ -29,3 +29,4 @@ ggplot(data = ces, aes(x = white, y = ces_3_0_score))+
   theme_minimal()
 ```
 
+**Figure 1.** 2D hex density graph showing the trend of CalEnviroScreen pollution score by percent white population. This shows a general trend of the CalEnviroScreen pollution score decreasing as the white population (%) increases. 
